@@ -1,0 +1,68 @@
+{
+  "사용자 테스트 전략": {
+    "봄": "S&P500 Momentum",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Quality",
+    "겨울": "S&P500 Low Volatiltiy Index"
+  },
+  "공격적 성장 전략": {
+    "봄": "S&P500 Growth",
+    "여름": "S&P500 Growth",
+    "가을": "S&P500 Momentum",
+    "겨울": "S&P500 Growth"
+  },
+  "안전 우선 전략": {
+    "봄": "S&P500 Quality",
+    "여름": "S&P500 Low Volatiltiy Index",
+    "가을": "S&P500 Div Aristocrt TR Index",
+    "겨울": "S&P500 Low Volatiltiy Index"
+  },
+  "균형 전략": {
+    "봄": "S&P500 Growth",
+    "여름": "S&P500 Quality",
+    "가을": "S&P500 Value",
+    "겨울": "S&P500 Div Aristocrt TR Index"
+  },
+  "스타일변경전략1": {
+    "봄": "S&P500 Momentum",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Quality",
+    "겨울": "S&P500 Low Volatiltiy Index"
+  },
+  "스타일변경전략2": {
+    "봄": "S&P500 Quality",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Low Volatiltiy Index",
+    "겨울": "S&P500 Low Volatiltiy Index"
+  },
+  "스타일변경전략 1": {
+    "봄": "S&P500 Momentum",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Quality",
+    "겨울": "S&P500 Low Volatiltiy Index"
+  },
+  "1": {
+    "봄": "S&P500 Momentum",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Momentum",
+    "겨울": "S&P500 Momentum"
+  },
+  "11": {
+    "봄": "S&P500 Quality",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Low Volatiltiy Index",
+    "겨울": "S&P500 Low Volatiltiy Index"
+  },
+  "2": {
+    "봄": "S&P500 Momentum",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Momentum",
+    "겨울": "S&P500 Momentum"
+  },
+  "스타일변경전략3": {
+    "봄": "S&P500 Quality",
+    "여름": "S&P500 Momentum",
+    "가을": "S&P500 Low Volatiltiy Index",
+    "겨울": "S&P500 Low Volatiltiy Index"
+  }
+}
